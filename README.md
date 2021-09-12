@@ -5,8 +5,13 @@ Power BI tutorial using sample practice excersises
 Tutorial 1:
 
 -How to pull in and transform data
+
 -How to merge tables and queries
+
 -How to make a sample report using various graph types
+
+
+
 
 Tutorial 2:
 
